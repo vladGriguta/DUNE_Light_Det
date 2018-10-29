@@ -117,6 +117,19 @@ def Plot_Trigger_Distrib(eventsSN,trigEf,fakeRate,threshold,SN_event_nr_bins,mea
     plt.savefig('week5/SNtime'+str(SN_event_time)+'.thr'+str(thr) +'.pdf', format='pdf')
     
     
+def PlotGridSearch(df_eff, efficiency = True):
+    X, Y = np.meshgrid(list(map(float, df_eff.index)),list(map(float, df_eff.columns)))
+    plt.scatter(X, Y, c = np.transpose(df_eff.values), cmap='viridis', linewidth=0.5);
+    plt.colorbar()
+    plt.xlabel('Threshold / per mean # events in interval')
+    plt.ylabel('Interval of integration / microseconds')
+    if(efficiency):
+        plt.title('SN Detection Efficiency')
+        plt.savefig('week5/GridSearchEffPreliminary2.pdf', format='pdf')
+    else:
+        plt.title('Fake Events Rate')
+        plt.savefig('week5/GridSearchFakePreliminary2.pdf', format='pdf')
+    plt.show()
 
     
 def SVMClass(eventsSN):

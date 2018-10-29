@@ -4,6 +4,7 @@
 
 # import the module
 
+import matplotlib.pyplot as plt
 import numpy as np;
 import pandas as pd;
 import allFunctions
@@ -112,6 +113,10 @@ SN_event_timeVals = [0.1,0.5,1,5,10]
 
 [df_eff, df_fake] = allFunctions.GridSearch(events, SN_event_nr_bins, thresholdVals, SN_event_timeVals, eventsSN, trigDuration,resolution)
 
+X, Y = np.meshgrid(list(map(float, df_eff.index)),list(map(float, df_eff.columns)))
+
+allFunctions.PlotGridSearch(df_eff,efficiency=True)
+allFunctions.PlotGridSearch(df_fake,efficiency=False)
 
 #allFunctions.Plot_Trigger_Distrib(eventsSN,trigEf,fakeRate,threshold,SN_event_nr_bins,mean_events,SN_event_time)
 
