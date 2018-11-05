@@ -28,6 +28,37 @@ def KMeansClustering3( timeSN, columns, n_clusters = 5):
     ax.set_ylabel(columns[1])
     ax.set_zlabel(columns[2])
     ax.set_title('K-Means Clusters')
-    fig.show()
+    #fig.show()
     
     print("Number of iternations: "+str(kmeans.n_iter_))
+    
+    return kmeans.labels_,kmeans.cluster_centers_
+    
+def InCaseIComeBackToDensity():
+    # Try to plot the 3D density
+    from scipy.stats import gaussian_kde
+    
+    X = np.array(timeSN[columns])
+    
+    xyz = np.stack([timeSN[columns]]).transpose()
+    density = gaussian_kde(xyz)
+    
+    
+    x = np.linspace(np.min(X[:,0]),np.max(X[:,0]),20)
+    y = np.linspace(np.min(X[:,1]),np.max(X[:,2]),20)
+    z = np.linspace(np.min(X[:,2]),np.max(X[:,2]),20)
+    
+    Z = density(xyz)
+    
+    fig = plt.figure()
+    ax = plt.subplot(projection='3d')
+    p = ax.scatter(x,y,z,c=Z,alpha=0.5)
+    fig.colorbar(p)
+    fig.show()
+    
+    
+    fig = plt.figure()
+    ax = plt.subplot(projection='3d')
+    p = ax.scatter(X[:,0],X[:,1],X[:,2],c=Z,alpha=0.5)
+    fig.colorbar(p)
+    fig.show()
