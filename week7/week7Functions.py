@@ -7,6 +7,12 @@ Created on Sun Nov  4 16:30:27 2018
 """
 import numpy as np
 
+
+
+
+
+
+
 def KMeansClustering3( timeSN, columns, n_clusters = 5):
     from sklearn.cluster import KMeans
     import matplotlib.pyplot as plt

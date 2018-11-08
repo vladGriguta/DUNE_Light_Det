@@ -14,25 +14,45 @@ import readFiles
 
 timeSN, timeAr = readFiles.readWeek7()
 
+SNevents = pd.read_csv('events_SN.txt')
+
 
 # Try a K-means clustering
 import week7Functions
 columns = ['vuv','x','pmt']
-labels, centres = week7Functions.KMeansClustering3(timeAr,columns,n_clusters=2)
+#labels, centres = week7Functions.KMeansClustering3(timeAr,columns,n_clusters=2)
 
 
-import pysal
+
+
+
+
+
+
+
+
+
+
+"""
+# Code from Oana to draw scatter plot with colorbar + text
 
 X = np.array(timeAr[columns])
-W = pysal.threshold_binaryW_from_array(X,threshold=0.1)
+numPhotons = timeSN.groupby('event').count()
+SNevents['numPhotons'] = numPhotons['time']
 
 
+plt.figure()
+plt.scatter(SNevents['energy'].values, SNevents['numPhotons'].values/SNevents['energy'].values, c = SNevents['x'], s = 100, cmap = 'Blues')
+cbar = plt.colorbar()
+cbar.set_label('coordinate [cm]', rotation = 270, labelpad=30, y=0.5, fontsize = 18)
+plt.xlabel('E_event [MeV]', fontsize = 20)
+plt.ylabel('Photons detected/event/energy', fontsize = 20 )
+plt.show()
+#plt.savefig('Entriesperenergy_vs_energy_SN_{:s}.jpg'.format(coord), format = 'jpg')
+"""
 
 
-
-
-
-
+"""
 # Some tests from last week
 
 # Global variables
@@ -47,7 +67,7 @@ simulationTime = 2.5 * 1000000 #2.5 seconds in microseconds
 thresholdVals = [5,7,10,13,15]
 SN_event_timeVals = [0.5,2,5,10,15,20,25,35]
 
-
+"""
 
 
 
