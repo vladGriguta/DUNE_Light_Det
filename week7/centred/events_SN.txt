@@ -1,0 +1,2000 @@
+energy,x,decayTime
+2.72359312274, 176.5, 0.0
+energy,x,decayTime
+32.5244873405, 176.5, 0.0
+energy,x,decayTime
+12.0640624032, 176.5, 0.0
+energy,x,decayTime
+15.4597121224, 176.5, 0.0
+energy,x,decayTime
+23.5014173673, 176.5, 0.0
+energy,x,decayTime
+15.3296139206, 176.5, 0.0
+energy,x,decayTime
+7.66431947214, 176.5, 0.0
+energy,x,decayTime
+35.4265468562, 176.5, 0.0
+energy,x,decayTime
+6.22812254438, 176.5, 0.0
+energy,x,decayTime
+15.2220557687, 176.5, 0.0
+energy,x,decayTime
+10.5227285599, 176.5, 0.0
+energy,x,decayTime
+9.55379784359, 176.5, 0.0
+energy,x,decayTime
+7.77377568328, 176.5, 0.0
+energy,x,decayTime
+17.0576713936, 176.5, 0.0
+energy,x,decayTime
+17.8279366871, 176.5, 0.0
+energy,x,decayTime
+22.7209734382, 176.5, 0.0
+energy,x,decayTime
+34.382309457, 176.5, 0.0
+energy,x,decayTime
+27.9759597533, 176.5, 0.0
+energy,x,decayTime
+34.5866410975, 176.5, 0.0
+energy,x,decayTime
+18.6378841061, 176.5, 0.0
+energy,x,decayTime
+13.045871208, 176.5, 0.0
+energy,x,decayTime
+13.1841419711, 176.5, 0.0
+energy,x,decayTime
+35.2450500394, 176.5, 0.0
+energy,x,decayTime
+18.3882900692, 176.5, 0.0
+energy,x,decayTime
+3.99527889914, 176.5, 0.0
+energy,x,decayTime
+26.6403043215, 176.5, 0.0
+energy,x,decayTime
+40.9606549178, 176.5, 0.0
+energy,x,decayTime
+11.8385889304, 176.5, 0.0
+energy,x,decayTime
+10.4580519517, 176.5, 0.0
+energy,x,decayTime
+33.3491845419, 176.5, 0.0
+energy,x,decayTime
+11.6269800822, 176.5, 0.0
+energy,x,decayTime
+35.0657921769, 176.5, 0.0
+energy,x,decayTime
+9.0095316804, 176.5, 0.0
+energy,x,decayTime
+11.8900428462, 176.5, 0.0
+energy,x,decayTime
+21.2722852553, 176.5, 0.0
+energy,x,decayTime
+16.6102632101, 176.5, 0.0
+energy,x,decayTime
+14.8291512896, 176.5, 0.0
+energy,x,decayTime
+27.5627695278, 176.5, 0.0
+energy,x,decayTime
+34.5785292714, 176.5, 0.0
+energy,x,decayTime
+13.2457886187, 176.5, 0.0
+energy,x,decayTime
+21.4256902554, 176.5, 0.0
+energy,x,decayTime
+9.74086661872, 176.5, 0.0
+energy,x,decayTime
+8.19097292112, 176.5, 0.0
+energy,x,decayTime
+12.8149944915, 176.5, 0.0
+energy,x,decayTime
+12.7328680565, 176.5, 0.0
+energy,x,decayTime
+22.5618988108, 176.5, 0.0
+energy,x,decayTime
+12.0463468188, 176.5, 0.0
+energy,x,decayTime
+15.6318432261, 176.5, 0.0
+energy,x,decayTime
+11.4945026084, 176.5, 0.0
+energy,x,decayTime
+15.6005110486, 176.5, 0.0
+energy,x,decayTime
+15.4359440054, 176.5, 0.0
+energy,x,decayTime
+22.0104490524, 176.5, 0.0
+energy,x,decayTime
+23.9029274567, 176.5, 0.0
+energy,x,decayTime
+15.3812494157, 176.5, 0.0
+energy,x,decayTime
+9.01536808692, 176.5, 0.0
+energy,x,decayTime
+6.86416707357, 176.5, 0.0
+energy,x,decayTime
+31.0846419507, 176.5, 0.0
+energy,x,decayTime
+18.2250525281, 176.5, 0.0
+energy,x,decayTime
+28.2497809083, 176.5, 0.0
+energy,x,decayTime
+18.185692326, 176.5, 0.0
+energy,x,decayTime
+26.7162656439, 176.5, 0.0
+energy,x,decayTime
+20.1899168591, 176.5, 0.0
+energy,x,decayTime
+18.4735018399, 176.5, 0.0
+energy,x,decayTime
+12.6101532719, 176.5, 0.0
+energy,x,decayTime
+19.4674508586, 176.5, 0.0
+energy,x,decayTime
+13.2231249327, 176.5, 0.0
+energy,x,decayTime
+5.79010539951, 176.5, 0.0
+energy,x,decayTime
+15.854649852, 176.5, 0.0
+energy,x,decayTime
+19.7477467657, 176.5, 0.0
+energy,x,decayTime
+11.3702751301, 176.5, 0.0
+energy,x,decayTime
+25.5094327969, 176.5, 0.0
+energy,x,decayTime
+7.83092303227, 176.5, 0.0
+energy,x,decayTime
+32.2641815515, 176.5, 0.0
+energy,x,decayTime
+19.5626466805, 176.5, 0.0
+energy,x,decayTime
+14.881880831, 176.5, 0.0
+energy,x,decayTime
+21.0361541755, 176.5, 0.0
+energy,x,decayTime
+28.2315624455, 176.5, 0.0
+energy,x,decayTime
+12.7586110808, 176.5, 0.0
+energy,x,decayTime
+31.5892403911, 176.5, 0.0
+energy,x,decayTime
+19.0961168264, 176.5, 0.0
+energy,x,decayTime
+8.43360560597, 176.5, 0.0
+energy,x,decayTime
+11.2473886971, 176.5, 0.0
+energy,x,decayTime
+17.6532815932, 176.5, 0.0
+energy,x,decayTime
+26.3895904033, 176.5, 0.0
+energy,x,decayTime
+22.6697311817, 176.5, 0.0
+energy,x,decayTime
+25.8952140576, 176.5, 0.0
+energy,x,decayTime
+18.2190747783, 176.5, 0.0
+energy,x,decayTime
+13.3822797591, 176.5, 0.0
+energy,x,decayTime
+34.6381731347, 176.5, 0.0
+energy,x,decayTime
+20.2342415521, 176.5, 0.0
+energy,x,decayTime
+15.2988815452, 176.5, 0.0
+energy,x,decayTime
+30.1379853848, 176.5, 0.0
+energy,x,decayTime
+31.3629112189, 176.5, 0.0
+energy,x,decayTime
+3.53432183986, 176.5, 0.0
+energy,x,decayTime
+16.5249320724, 176.5, 0.0
+energy,x,decayTime
+9.45301972887, 176.5, 0.0
+energy,x,decayTime
+22.4390064056, 176.5, 0.0
+energy,x,decayTime
+46.6744693987, 176.5, 0.0
+energy,x,decayTime
+19.1006976825, 176.5, 0.0
+energy,x,decayTime
+23.7775856349, 176.5, 0.0
+energy,x,decayTime
+33.1480533277, 176.5, 0.0
+energy,x,decayTime
+26.4256321927, 176.5, 0.0
+energy,x,decayTime
+29.8673822757, 176.5, 0.0
+energy,x,decayTime
+21.320520775, 176.5, 0.0
+energy,x,decayTime
+18.3110103091, 176.5, 0.0
+energy,x,decayTime
+30.1345717, 176.5, 0.0
+energy,x,decayTime
+22.8751884435, 176.5, 0.0
+energy,x,decayTime
+23.1662797363, 176.5, 0.0
+energy,x,decayTime
+34.3181074242, 176.5, 0.0
+energy,x,decayTime
+11.8667983354, 176.5, 0.0
+energy,x,decayTime
+27.8124895687, 176.5, 0.0
+energy,x,decayTime
+10.0255046127, 176.5, 0.0
+energy,x,decayTime
+25.8504316553, 176.5, 0.0
+energy,x,decayTime
+45.3719062788, 176.5, 0.0
+energy,x,decayTime
+9.92563893313, 176.5, 0.0
+energy,x,decayTime
+14.8805211893, 176.5, 0.0
+energy,x,decayTime
+25.9640001848, 176.5, 0.0
+energy,x,decayTime
+34.6462624874, 176.5, 0.0
+energy,x,decayTime
+4.38792847065, 176.5, 0.0
+energy,x,decayTime
+28.0827518181, 176.5, 0.0
+energy,x,decayTime
+11.2799873305, 176.5, 0.0
+energy,x,decayTime
+20.7049128203, 176.5, 0.0
+energy,x,decayTime
+19.4568554209, 176.5, 0.0
+energy,x,decayTime
+33.6352827515, 176.5, 0.0
+energy,x,decayTime
+9.04777406718, 176.5, 0.0
+energy,x,decayTime
+15.685812658, 176.5, 0.0
+energy,x,decayTime
+31.4066183002, 176.5, 0.0
+energy,x,decayTime
+35.0404058133, 176.5, 0.0
+energy,x,decayTime
+28.2642392739, 176.5, 0.0
+energy,x,decayTime
+17.7780629848, 176.5, 0.0
+energy,x,decayTime
+8.14962572102, 176.5, 0.0
+energy,x,decayTime
+2.03281650589, 176.5, 0.0
+energy,x,decayTime
+15.3254272124, 176.5, 0.0
+energy,x,decayTime
+6.47865981438, 176.5, 0.0
+energy,x,decayTime
+23.2708058526, 176.5, 0.0
+energy,x,decayTime
+2.86302181341, 176.5, 0.0
+energy,x,decayTime
+29.8294115772, 176.5, 0.0
+energy,x,decayTime
+13.1986803935, 176.5, 0.0
+energy,x,decayTime
+3.82132527405, 176.5, 0.0
+energy,x,decayTime
+23.1137733165, 176.5, 0.0
+energy,x,decayTime
+11.151822491, 176.5, 0.0
+energy,x,decayTime
+18.7579520451, 176.5, 0.0
+energy,x,decayTime
+21.7199583706, 176.5, 0.0
+energy,x,decayTime
+16.2403707656, 176.5, 0.0
+energy,x,decayTime
+8.29850776326, 176.5, 0.0
+energy,x,decayTime
+19.9282579566, 176.5, 0.0
+energy,x,decayTime
+6.5796689142, 176.5, 0.0
+energy,x,decayTime
+22.3819837165, 176.5, 0.0
+energy,x,decayTime
+14.3152890482, 176.5, 0.0
+energy,x,decayTime
+19.3426368962, 176.5, 0.0
+energy,x,decayTime
+16.9558440461, 176.5, 0.0
+energy,x,decayTime
+39.9838808383, 176.5, 0.0
+energy,x,decayTime
+18.3929524161, 176.5, 0.0
+energy,x,decayTime
+32.3716804463, 176.5, 0.0
+energy,x,decayTime
+17.5971265295, 176.5, 0.0
+energy,x,decayTime
+23.7799703715, 176.5, 0.0
+energy,x,decayTime
+19.9512528627, 176.5, 0.0
+energy,x,decayTime
+12.6921945995, 176.5, 0.0
+energy,x,decayTime
+17.837131522, 176.5, 0.0
+energy,x,decayTime
+20.9777529702, 176.5, 0.0
+energy,x,decayTime
+20.8282092255, 176.5, 0.0
+energy,x,decayTime
+22.9843905408, 176.5, 0.0
+energy,x,decayTime
+45.1281038835, 176.5, 0.0
+energy,x,decayTime
+14.8017524926, 176.5, 0.0
+energy,x,decayTime
+48.3707770526, 176.5, 0.0
+energy,x,decayTime
+18.8541776562, 176.5, 0.0
+energy,x,decayTime
+21.5207437762, 176.5, 0.0
+energy,x,decayTime
+21.5717027147, 176.5, 0.0
+energy,x,decayTime
+38.7759361206, 176.5, 0.0
+energy,x,decayTime
+2.78716054456, 176.5, 0.0
+energy,x,decayTime
+16.0502364201, 176.5, 0.0
+energy,x,decayTime
+36.167502704, 176.5, 0.0
+energy,x,decayTime
+17.5075955994, 176.5, 0.0
+energy,x,decayTime
+16.1999230192, 176.5, 0.0
+energy,x,decayTime
+33.0974434836, 176.5, 0.0
+energy,x,decayTime
+16.0445678262, 176.5, 0.0
+energy,x,decayTime
+10.3414865405, 176.5, 0.0
+energy,x,decayTime
+31.2317750648, 176.5, 0.0
+energy,x,decayTime
+11.2573950101, 176.5, 0.0
+energy,x,decayTime
+19.0345227886, 176.5, 0.0
+energy,x,decayTime
+46.0505106339, 176.5, 0.0
+energy,x,decayTime
+5.69145282125, 176.5, 0.0
+energy,x,decayTime
+7.01145260821, 176.5, 0.0
+energy,x,decayTime
+23.3444361477, 176.5, 0.0
+energy,x,decayTime
+19.3683771557, 176.5, 0.0
+energy,x,decayTime
+31.674641433, 176.5, 0.0
+energy,x,decayTime
+24.8908730862, 176.5, 0.0
+energy,x,decayTime
+8.0735352134, 176.5, 0.0
+energy,x,decayTime
+16.8023374457, 176.5, 0.0
+energy,x,decayTime
+16.1971566061, 176.5, 0.0
+energy,x,decayTime
+37.1051565288, 176.5, 0.0
+energy,x,decayTime
+16.5914453572, 176.5, 0.0
+energy,x,decayTime
+33.968268576, 176.5, 0.0
+energy,x,decayTime
+15.796753691, 176.5, 0.0
+energy,x,decayTime
+14.2870804729, 176.5, 0.0
+energy,x,decayTime
+17.3520581993, 176.5, 0.0
+energy,x,decayTime
+20.0993555912, 176.5, 0.0
+energy,x,decayTime
+34.3508696823, 176.5, 0.0
+energy,x,decayTime
+33.9560440659, 176.5, 0.0
+energy,x,decayTime
+24.9984479844, 176.5, 0.0
+energy,x,decayTime
+16.7259537577, 176.5, 0.0
+energy,x,decayTime
+18.9118627452, 176.5, 0.0
+energy,x,decayTime
+12.5157335179, 176.5, 0.0
+energy,x,decayTime
+12.8133377954, 176.5, 0.0
+energy,x,decayTime
+19.8891191167, 176.5, 0.0
+energy,x,decayTime
+17.32849449, 176.5, 0.0
+energy,x,decayTime
+17.0745441845, 176.5, 0.0
+energy,x,decayTime
+29.0274593357, 176.5, 0.0
+energy,x,decayTime
+35.355439557, 176.5, 0.0
+energy,x,decayTime
+9.35592899483, 176.5, 0.0
+energy,x,decayTime
+26.3938073424, 176.5, 0.0
+energy,x,decayTime
+14.8873952033, 176.5, 0.0
+energy,x,decayTime
+43.5732376352, 176.5, 0.0
+energy,x,decayTime
+17.481341115, 176.5, 0.0
+energy,x,decayTime
+14.3400378159, 176.5, 0.0
+energy,x,decayTime
+19.8481111948, 176.5, 0.0
+energy,x,decayTime
+4.99864362952, 176.5, 0.0
+energy,x,decayTime
+17.0656465546, 176.5, 0.0
+energy,x,decayTime
+27.1934368291, 176.5, 0.0
+energy,x,decayTime
+35.8695266493, 176.5, 0.0
+energy,x,decayTime
+13.6735178315, 176.5, 0.0
+energy,x,decayTime
+28.3557270996, 176.5, 0.0
+energy,x,decayTime
+20.8294343974, 176.5, 0.0
+energy,x,decayTime
+37.2333692517, 176.5, 0.0
+energy,x,decayTime
+19.2882950528, 176.5, 0.0
+energy,x,decayTime
+20.5350932121, 176.5, 0.0
+energy,x,decayTime
+45.2115020187, 176.5, 0.0
+energy,x,decayTime
+39.6244525345, 176.5, 0.0
+energy,x,decayTime
+10.403399735, 176.5, 0.0
+energy,x,decayTime
+7.20347857806, 176.5, 0.0
+energy,x,decayTime
+9.4814908053, 176.5, 0.0
+energy,x,decayTime
+13.7057629906, 176.5, 0.0
+energy,x,decayTime
+10.5016233221, 176.5, 0.0
+energy,x,decayTime
+16.7732362679, 176.5, 0.0
+energy,x,decayTime
+18.3648801842, 176.5, 0.0
+energy,x,decayTime
+12.0850512752, 176.5, 0.0
+energy,x,decayTime
+34.7441269839, 176.5, 0.0
+energy,x,decayTime
+21.7035371878, 176.5, 0.0
+energy,x,decayTime
+22.0236024482, 176.5, 0.0
+energy,x,decayTime
+8.48735484624, 176.5, 0.0
+energy,x,decayTime
+7.02997556618, 176.5, 0.0
+energy,x,decayTime
+20.5999691209, 176.5, 0.0
+energy,x,decayTime
+19.5581875841, 176.5, 0.0
+energy,x,decayTime
+7.53361934273, 176.5, 0.0
+energy,x,decayTime
+29.6698500601, 176.5, 0.0
+energy,x,decayTime
+20.3816436161, 176.5, 0.0
+energy,x,decayTime
+15.6874119739, 176.5, 0.0
+energy,x,decayTime
+21.7077969106, 176.5, 0.0
+energy,x,decayTime
+19.7112762707, 176.5, 0.0
+energy,x,decayTime
+14.744528311, 176.5, 0.0
+energy,x,decayTime
+34.7780611594, 176.5, 0.0
+energy,x,decayTime
+18.5076963752, 176.5, 0.0
+energy,x,decayTime
+10.5046788039, 176.5, 0.0
+energy,x,decayTime
+25.3442890615, 176.5, 0.0
+energy,x,decayTime
+19.2633826529, 176.5, 0.0
+energy,x,decayTime
+13.2280500712, 176.5, 0.0
+energy,x,decayTime
+20.8658145603, 176.5, 0.0
+energy,x,decayTime
+9.69942689764, 176.5, 0.0
+energy,x,decayTime
+11.3301473326, 176.5, 0.0
+energy,x,decayTime
+18.4839246877, 176.5, 0.0
+energy,x,decayTime
+12.8696257831, 176.5, 0.0
+energy,x,decayTime
+8.87062165583, 176.5, 0.0
+energy,x,decayTime
+14.1891243937, 176.5, 0.0
+energy,x,decayTime
+35.622981062, 176.5, 0.0
+energy,x,decayTime
+16.7876390121, 176.5, 0.0
+energy,x,decayTime
+12.3519259566, 176.5, 0.0
+energy,x,decayTime
+14.1981564812, 176.5, 0.0
+energy,x,decayTime
+22.6553208306, 176.5, 0.0
+energy,x,decayTime
+9.57404259265, 176.5, 0.0
+energy,x,decayTime
+37.9704833899, 176.5, 0.0
+energy,x,decayTime
+25.5272878305, 176.5, 0.0
+energy,x,decayTime
+27.2871914355, 176.5, 0.0
+energy,x,decayTime
+9.62120102434, 176.5, 0.0
+energy,x,decayTime
+23.8750361476, 176.5, 0.0
+energy,x,decayTime
+16.5483905685, 176.5, 0.0
+energy,x,decayTime
+21.646728729, 176.5, 0.0
+energy,x,decayTime
+10.825374666, 176.5, 0.0
+energy,x,decayTime
+17.1020678167, 176.5, 0.0
+energy,x,decayTime
+15.0900224732, 176.5, 0.0
+energy,x,decayTime
+40.6328463349, 176.5, 0.0
+energy,x,decayTime
+18.1484478111, 176.5, 0.0
+energy,x,decayTime
+9.85729036854, 176.5, 0.0
+energy,x,decayTime
+15.549344841, 176.5, 0.0
+energy,x,decayTime
+11.2779026768, 176.5, 0.0
+energy,x,decayTime
+13.2929992054, 176.5, 0.0
+energy,x,decayTime
+21.1515309469, 176.5, 0.0
+energy,x,decayTime
+12.633207727, 176.5, 0.0
+energy,x,decayTime
+28.7224977232, 176.5, 0.0
+energy,x,decayTime
+9.32405425361, 176.5, 0.0
+energy,x,decayTime
+18.9328874351, 176.5, 0.0
+energy,x,decayTime
+32.0607761693, 176.5, 0.0
+energy,x,decayTime
+17.1326485183, 176.5, 0.0
+energy,x,decayTime
+21.6806126218, 176.5, 0.0
+energy,x,decayTime
+14.0680611424, 176.5, 0.0
+energy,x,decayTime
+13.9370317188, 176.5, 0.0
+energy,x,decayTime
+24.2174821476, 176.5, 0.0
+energy,x,decayTime
+17.6222527609, 176.5, 0.0
+energy,x,decayTime
+7.04954980422, 176.5, 0.0
+energy,x,decayTime
+5.65876420151, 176.5, 0.0
+energy,x,decayTime
+18.4257270158, 176.5, 0.0
+energy,x,decayTime
+11.4228002683, 176.5, 0.0
+energy,x,decayTime
+33.3430543169, 176.5, 0.0
+energy,x,decayTime
+19.3699599158, 176.5, 0.0
+energy,x,decayTime
+22.9667556028, 176.5, 0.0
+energy,x,decayTime
+5.82212144725, 176.5, 0.0
+energy,x,decayTime
+27.7817766785, 176.5, 0.0
+energy,x,decayTime
+23.5681049626, 176.5, 0.0
+energy,x,decayTime
+35.239094258, 176.5, 0.0
+energy,x,decayTime
+30.9227903542, 176.5, 0.0
+energy,x,decayTime
+13.4146457033, 176.5, 0.0
+energy,x,decayTime
+27.8553167364, 176.5, 0.0
+energy,x,decayTime
+11.2018615834, 176.5, 0.0
+energy,x,decayTime
+21.5393865401, 176.5, 0.0
+energy,x,decayTime
+14.173619222, 176.5, 0.0
+energy,x,decayTime
+12.7531691246, 176.5, 0.0
+energy,x,decayTime
+25.8143648129, 176.5, 0.0
+energy,x,decayTime
+12.1758019158, 176.5, 0.0
+energy,x,decayTime
+14.1660756992, 176.5, 0.0
+energy,x,decayTime
+25.2496236384, 176.5, 0.0
+energy,x,decayTime
+14.5914323024, 176.5, 0.0
+energy,x,decayTime
+16.5094621325, 176.5, 0.0
+energy,x,decayTime
+6.53140153664, 176.5, 0.0
+energy,x,decayTime
+16.4213214031, 176.5, 0.0
+energy,x,decayTime
+4.61153027279, 176.5, 0.0
+energy,x,decayTime
+14.1404285437, 176.5, 0.0
+energy,x,decayTime
+21.1757033331, 176.5, 0.0
+energy,x,decayTime
+10.4839658893, 176.5, 0.0
+energy,x,decayTime
+19.3017065013, 176.5, 0.0
+energy,x,decayTime
+12.0405296148, 176.5, 0.0
+energy,x,decayTime
+45.7777968716, 176.5, 0.0
+energy,x,decayTime
+27.1477899606, 176.5, 0.0
+energy,x,decayTime
+16.2559725638, 176.5, 0.0
+energy,x,decayTime
+8.49981829755, 176.5, 0.0
+energy,x,decayTime
+18.8984244079, 176.5, 0.0
+energy,x,decayTime
+13.2684489292, 176.5, 0.0
+energy,x,decayTime
+20.8534312937, 176.5, 0.0
+energy,x,decayTime
+10.2155333612, 176.5, 0.0
+energy,x,decayTime
+7.99073092099, 176.5, 0.0
+energy,x,decayTime
+21.517343427, 176.5, 0.0
+energy,x,decayTime
+22.062691483, 176.5, 0.0
+energy,x,decayTime
+22.939470074, 176.5, 0.0
+energy,x,decayTime
+9.50183587285, 176.5, 0.0
+energy,x,decayTime
+12.3165688669, 176.5, 0.0
+energy,x,decayTime
+23.0921763638, 176.5, 0.0
+energy,x,decayTime
+19.962792497, 176.5, 0.0
+energy,x,decayTime
+13.3972253464, 176.5, 0.0
+energy,x,decayTime
+23.3274890205, 176.5, 0.0
+energy,x,decayTime
+36.5709768331, 176.5, 0.0
+energy,x,decayTime
+33.122524862, 176.5, 0.0
+energy,x,decayTime
+6.33770834382, 176.5, 0.0
+energy,x,decayTime
+35.7924054164, 176.5, 0.0
+energy,x,decayTime
+46.1623522094, 176.5, 0.0
+energy,x,decayTime
+19.168553609, 176.5, 0.0
+energy,x,decayTime
+21.8592559265, 176.5, 0.0
+energy,x,decayTime
+3.1170032264, 176.5, 0.0
+energy,x,decayTime
+23.9270625071, 176.5, 0.0
+energy,x,decayTime
+22.8097315503, 176.5, 0.0
+energy,x,decayTime
+10.0369769872, 176.5, 0.0
+energy,x,decayTime
+24.9873015585, 176.5, 0.0
+energy,x,decayTime
+17.4500858654, 176.5, 0.0
+energy,x,decayTime
+15.8424768404, 176.5, 0.0
+energy,x,decayTime
+13.5237630009, 176.5, 0.0
+energy,x,decayTime
+10.219129315, 176.5, 0.0
+energy,x,decayTime
+20.8461200172, 176.5, 0.0
+energy,x,decayTime
+31.5627876927, 176.5, 0.0
+energy,x,decayTime
+22.0420990787, 176.5, 0.0
+energy,x,decayTime
+27.8240254188, 176.5, 0.0
+energy,x,decayTime
+31.1399511068, 176.5, 0.0
+energy,x,decayTime
+15.1567497898, 176.5, 0.0
+energy,x,decayTime
+4.53585722823, 176.5, 0.0
+energy,x,decayTime
+13.8908728772, 176.5, 0.0
+energy,x,decayTime
+14.8351764474, 176.5, 0.0
+energy,x,decayTime
+36.685823468, 176.5, 0.0
+energy,x,decayTime
+9.11738466468, 176.5, 0.0
+energy,x,decayTime
+7.92464911633, 176.5, 0.0
+energy,x,decayTime
+19.8714442671, 176.5, 0.0
+energy,x,decayTime
+11.2395236472, 176.5, 0.0
+energy,x,decayTime
+9.14796646454, 176.5, 0.0
+energy,x,decayTime
+16.0132805881, 176.5, 0.0
+energy,x,decayTime
+12.3671812154, 176.5, 0.0
+energy,x,decayTime
+28.9563781407, 176.5, 0.0
+energy,x,decayTime
+10.805999182, 176.5, 0.0
+energy,x,decayTime
+24.636974077, 176.5, 0.0
+energy,x,decayTime
+15.9835664358, 176.5, 0.0
+energy,x,decayTime
+8.62688271618, 176.5, 0.0
+energy,x,decayTime
+14.8796425941, 176.5, 0.0
+energy,x,decayTime
+23.1820460346, 176.5, 0.0
+energy,x,decayTime
+7.9039226296, 176.5, 0.0
+energy,x,decayTime
+15.2531167155, 176.5, 0.0
+energy,x,decayTime
+18.2464210106, 176.5, 0.0
+energy,x,decayTime
+24.2665288773, 176.5, 0.0
+energy,x,decayTime
+17.1814598542, 176.5, 0.0
+energy,x,decayTime
+20.140189624, 176.5, 0.0
+energy,x,decayTime
+29.7264958217, 176.5, 0.0
+energy,x,decayTime
+31.1352403639, 176.5, 0.0
+energy,x,decayTime
+26.4993370936, 176.5, 0.0
+energy,x,decayTime
+17.194046351, 176.5, 0.0
+energy,x,decayTime
+16.0568386605, 176.5, 0.0
+energy,x,decayTime
+17.1940006922, 176.5, 0.0
+energy,x,decayTime
+13.2754047007, 176.5, 0.0
+energy,x,decayTime
+29.5147260765, 176.5, 0.0
+energy,x,decayTime
+28.3930500576, 176.5, 0.0
+energy,x,decayTime
+26.9673118851, 176.5, 0.0
+energy,x,decayTime
+21.2991237449, 176.5, 0.0
+energy,x,decayTime
+28.2380106343, 176.5, 0.0
+energy,x,decayTime
+8.78484353429, 176.5, 0.0
+energy,x,decayTime
+19.407997722, 176.5, 0.0
+energy,x,decayTime
+21.3640080946, 176.5, 0.0
+energy,x,decayTime
+10.0004001886, 176.5, 0.0
+energy,x,decayTime
+19.2325762447, 176.5, 0.0
+energy,x,decayTime
+17.9290806726, 176.5, 0.0
+energy,x,decayTime
+9.22751287027, 176.5, 0.0
+energy,x,decayTime
+15.4032074026, 176.5, 0.0
+energy,x,decayTime
+41.9695160312, 176.5, 0.0
+energy,x,decayTime
+7.63166128988, 176.5, 0.0
+energy,x,decayTime
+20.1857857846, 176.5, 0.0
+energy,x,decayTime
+14.5261424766, 176.5, 0.0
+energy,x,decayTime
+18.4951910693, 176.5, 0.0
+energy,x,decayTime
+17.4066757431, 176.5, 0.0
+energy,x,decayTime
+12.1858848377, 176.5, 0.0
+energy,x,decayTime
+22.2492504053, 176.5, 0.0
+energy,x,decayTime
+14.6278297867, 176.5, 0.0
+energy,x,decayTime
+18.3063069766, 176.5, 0.0
+energy,x,decayTime
+10.2472832899, 176.5, 0.0
+energy,x,decayTime
+19.8783704639, 176.5, 0.0
+energy,x,decayTime
+12.6076473859, 176.5, 0.0
+energy,x,decayTime
+22.3375811377, 176.5, 0.0
+energy,x,decayTime
+28.9135957845, 176.5, 0.0
+energy,x,decayTime
+37.5959732106, 176.5, 0.0
+energy,x,decayTime
+30.9460607571, 176.5, 0.0
+energy,x,decayTime
+18.6720938869, 176.5, 0.0
+energy,x,decayTime
+6.28185723658, 176.5, 0.0
+energy,x,decayTime
+7.0876039692, 176.5, 0.0
+energy,x,decayTime
+19.5887368123, 176.5, 0.0
+energy,x,decayTime
+10.0436944954, 176.5, 0.0
+energy,x,decayTime
+20.0031626951, 176.5, 0.0
+energy,x,decayTime
+10.8176687135, 176.5, 0.0
+energy,x,decayTime
+14.9136995376, 176.5, 0.0
+energy,x,decayTime
+34.4763657555, 176.5, 0.0
+energy,x,decayTime
+33.5972349559, 176.5, 0.0
+energy,x,decayTime
+6.35982110559, 176.5, 0.0
+energy,x,decayTime
+30.3354461423, 176.5, 0.0
+energy,x,decayTime
+18.367962316, 176.5, 0.0
+energy,x,decayTime
+17.6688532795, 176.5, 0.0
+energy,x,decayTime
+16.4790744998, 176.5, 0.0
+energy,x,decayTime
+20.7408065068, 176.5, 0.0
+energy,x,decayTime
+27.0993220698, 176.5, 0.0
+energy,x,decayTime
+22.5006869106, 176.5, 0.0
+energy,x,decayTime
+29.1701459817, 176.5, 0.0
+energy,x,decayTime
+17.4620138071, 176.5, 0.0
+energy,x,decayTime
+7.16647770204, 176.5, 0.0
+energy,x,decayTime
+22.583618947, 176.5, 0.0
+energy,x,decayTime
+15.8594972155, 176.5, 0.0
+energy,x,decayTime
+15.8356934837, 176.5, 0.0
+energy,x,decayTime
+9.32050589488, 176.5, 0.0
+energy,x,decayTime
+23.0976469976, 176.5, 0.0
+energy,x,decayTime
+27.7251814269, 176.5, 0.0
+energy,x,decayTime
+12.2861863255, 176.5, 0.0
+energy,x,decayTime
+25.977971616, 176.5, 0.0
+energy,x,decayTime
+25.0518221717, 176.5, 0.0
+energy,x,decayTime
+16.5516445982, 176.5, 0.0
+energy,x,decayTime
+12.1109971378, 176.5, 0.0
+energy,x,decayTime
+18.5714324332, 176.5, 0.0
+energy,x,decayTime
+19.9533978771, 176.5, 0.0
+energy,x,decayTime
+3.93261404492, 176.5, 0.0
+energy,x,decayTime
+11.0654845744, 176.5, 0.0
+energy,x,decayTime
+13.1201979773, 176.5, 0.0
+energy,x,decayTime
+10.7716290721, 176.5, 0.0
+energy,x,decayTime
+20.490474369, 176.5, 0.0
+energy,x,decayTime
+18.2124185028, 176.5, 0.0
+energy,x,decayTime
+15.8976033053, 176.5, 0.0
+energy,x,decayTime
+9.67184425859, 176.5, 0.0
+energy,x,decayTime
+13.4768024309, 176.5, 0.0
+energy,x,decayTime
+21.931287236, 176.5, 0.0
+energy,x,decayTime
+27.5120489157, 176.5, 0.0
+energy,x,decayTime
+42.4883758656, 176.5, 0.0
+energy,x,decayTime
+15.3759067032, 176.5, 0.0
+energy,x,decayTime
+15.9137635125, 176.5, 0.0
+energy,x,decayTime
+20.5298651336, 176.5, 0.0
+energy,x,decayTime
+17.7561604501, 176.5, 0.0
+energy,x,decayTime
+32.0754449393, 176.5, 0.0
+energy,x,decayTime
+20.7155152199, 176.5, 0.0
+energy,x,decayTime
+6.34405316122, 176.5, 0.0
+energy,x,decayTime
+28.0148819173, 176.5, 0.0
+energy,x,decayTime
+17.6232234072, 176.5, 0.0
+energy,x,decayTime
+14.2922385271, 176.5, 0.0
+energy,x,decayTime
+33.2697428654, 176.5, 0.0
+energy,x,decayTime
+26.6919152759, 176.5, 0.0
+energy,x,decayTime
+28.5579959148, 176.5, 0.0
+energy,x,decayTime
+29.1660659673, 176.5, 0.0
+energy,x,decayTime
+36.215375401, 176.5, 0.0
+energy,x,decayTime
+6.76253096624, 176.5, 0.0
+energy,x,decayTime
+11.6756314927, 176.5, 0.0
+energy,x,decayTime
+24.0548143516, 176.5, 0.0
+energy,x,decayTime
+9.5606829077, 176.5, 0.0
+energy,x,decayTime
+8.3488057421, 176.5, 0.0
+energy,x,decayTime
+16.0271336551, 176.5, 0.0
+energy,x,decayTime
+33.5592449422, 176.5, 0.0
+energy,x,decayTime
+4.46989672793, 176.5, 0.0
+energy,x,decayTime
+8.21399604576, 176.5, 0.0
+energy,x,decayTime
+42.989686862, 176.5, 0.0
+energy,x,decayTime
+12.4815680283, 176.5, 0.0
+energy,x,decayTime
+12.8475150706, 176.5, 0.0
+energy,x,decayTime
+31.5820094083, 176.5, 0.0
+energy,x,decayTime
+34.7976710931, 176.5, 0.0
+energy,x,decayTime
+14.0204258312, 176.5, 0.0
+energy,x,decayTime
+26.4299022491, 176.5, 0.0
+energy,x,decayTime
+20.903257774, 176.5, 0.0
+energy,x,decayTime
+36.3574136488, 176.5, 0.0
+energy,x,decayTime
+13.6456329014, 176.5, 0.0
+energy,x,decayTime
+12.6473035179, 176.5, 0.0
+energy,x,decayTime
+17.9728313954, 176.5, 0.0
+energy,x,decayTime
+16.0993255987, 176.5, 0.0
+energy,x,decayTime
+4.97342618959, 176.5, 0.0
+energy,x,decayTime
+4.63481984889, 176.5, 0.0
+energy,x,decayTime
+33.1980955752, 176.5, 0.0
+energy,x,decayTime
+27.7955801958, 176.5, 0.0
+energy,x,decayTime
+27.5115565132, 176.5, 0.0
+energy,x,decayTime
+4.47740288629, 176.5, 0.0
+energy,x,decayTime
+6.64429134182, 176.5, 0.0
+energy,x,decayTime
+13.070768523, 176.5, 0.0
+energy,x,decayTime
+17.7092971518, 176.5, 0.0
+energy,x,decayTime
+13.8276837392, 176.5, 0.0
+energy,x,decayTime
+43.8826336761, 176.5, 0.0
+energy,x,decayTime
+6.00859815373, 176.5, 0.0
+energy,x,decayTime
+36.4819201292, 176.5, 0.0
+energy,x,decayTime
+29.4243059318, 176.5, 0.0
+energy,x,decayTime
+14.1615869177, 176.5, 0.0
+energy,x,decayTime
+31.4133475382, 176.5, 0.0
+energy,x,decayTime
+27.5788848595, 176.5, 0.0
+energy,x,decayTime
+12.1841289581, 176.5, 0.0
+energy,x,decayTime
+27.3350859961, 176.5, 0.0
+energy,x,decayTime
+22.1612354708, 176.5, 0.0
+energy,x,decayTime
+41.0470191205, 176.5, 0.0
+energy,x,decayTime
+44.6154001643, 176.5, 0.0
+energy,x,decayTime
+22.6312346886, 176.5, 0.0
+energy,x,decayTime
+8.83745462096, 176.5, 0.0
+energy,x,decayTime
+20.5033411057, 176.5, 0.0
+energy,x,decayTime
+31.1634624102, 176.5, 0.0
+energy,x,decayTime
+14.7036903144, 176.5, 0.0
+energy,x,decayTime
+6.51281334065, 176.5, 0.0
+energy,x,decayTime
+22.6006244987, 176.5, 0.0
+energy,x,decayTime
+28.4394489401, 176.5, 0.0
+energy,x,decayTime
+24.4364252828, 176.5, 0.0
+energy,x,decayTime
+30.5402096288, 176.5, 0.0
+energy,x,decayTime
+16.7223094289, 176.5, 0.0
+energy,x,decayTime
+28.6845921893, 176.5, 0.0
+energy,x,decayTime
+24.9982571384, 176.5, 0.0
+energy,x,decayTime
+21.9644836701, 176.5, 0.0
+energy,x,decayTime
+20.8611223796, 176.5, 0.0
+energy,x,decayTime
+16.8444151442, 176.5, 0.0
+energy,x,decayTime
+7.44140087859, 176.5, 0.0
+energy,x,decayTime
+26.0514435078, 176.5, 0.0
+energy,x,decayTime
+14.4242057934, 176.5, 0.0
+energy,x,decayTime
+23.5735167869, 176.5, 0.0
+energy,x,decayTime
+25.5115671364, 176.5, 0.0
+energy,x,decayTime
+28.166736257, 176.5, 0.0
+energy,x,decayTime
+15.5485185036, 176.5, 0.0
+energy,x,decayTime
+12.3007200538, 176.5, 0.0
+energy,x,decayTime
+16.7212325674, 176.5, 0.0
+energy,x,decayTime
+39.4191517628, 176.5, 0.0
+energy,x,decayTime
+29.9093914526, 176.5, 0.0
+energy,x,decayTime
+30.2056686631, 176.5, 0.0
+energy,x,decayTime
+21.0679550352, 176.5, 0.0
+energy,x,decayTime
+6.71666736673, 176.5, 0.0
+energy,x,decayTime
+9.27956537257, 176.5, 0.0
+energy,x,decayTime
+14.6112326738, 176.5, 0.0
+energy,x,decayTime
+12.2924878139, 176.5, 0.0
+energy,x,decayTime
+20.2894333345, 176.5, 0.0
+energy,x,decayTime
+7.38324380619, 176.5, 0.0
+energy,x,decayTime
+30.4621536223, 176.5, 0.0
+energy,x,decayTime
+23.2406639056, 176.5, 0.0
+energy,x,decayTime
+29.09026616, 176.5, 0.0
+energy,x,decayTime
+5.90642840392, 176.5, 0.0
+energy,x,decayTime
+32.0241682251, 176.5, 0.0
+energy,x,decayTime
+19.0697631296, 176.5, 0.0
+energy,x,decayTime
+44.8927239058, 176.5, 0.0
+energy,x,decayTime
+17.7808514624, 176.5, 0.0
+energy,x,decayTime
+15.9895698481, 176.5, 0.0
+energy,x,decayTime
+21.9335697931, 176.5, 0.0
+energy,x,decayTime
+4.49154472946, 176.5, 0.0
+energy,x,decayTime
+40.6954926682, 176.5, 0.0
+energy,x,decayTime
+16.0477822155, 176.5, 0.0
+energy,x,decayTime
+20.4220374765, 176.5, 0.0
+energy,x,decayTime
+19.5389844791, 176.5, 0.0
+energy,x,decayTime
+39.0617604331, 176.5, 0.0
+energy,x,decayTime
+6.18738570125, 176.5, 0.0
+energy,x,decayTime
+21.5167980816, 176.5, 0.0
+energy,x,decayTime
+27.7748348691, 176.5, 0.0
+energy,x,decayTime
+40.3056050088, 176.5, 0.0
+energy,x,decayTime
+29.9557014789, 176.5, 0.0
+energy,x,decayTime
+22.2651240081, 176.5, 0.0
+energy,x,decayTime
+16.5956632269, 176.5, 0.0
+energy,x,decayTime
+5.39580041893, 176.5, 0.0
+energy,x,decayTime
+36.3716415272, 176.5, 0.0
+energy,x,decayTime
+13.8510324304, 176.5, 0.0
+energy,x,decayTime
+31.5201709928, 176.5, 0.0
+energy,x,decayTime
+15.9991154461, 176.5, 0.0
+energy,x,decayTime
+13.0753482274, 176.5, 0.0
+energy,x,decayTime
+23.7056323039, 176.5, 0.0
+energy,x,decayTime
+21.6434681858, 176.5, 0.0
+energy,x,decayTime
+25.1935040645, 176.5, 0.0
+energy,x,decayTime
+21.8674995517, 176.5, 0.0
+energy,x,decayTime
+22.1801219992, 176.5, 0.0
+energy,x,decayTime
+21.8499934554, 176.5, 0.0
+energy,x,decayTime
+17.9772115546, 176.5, 0.0
+energy,x,decayTime
+9.95798440569, 176.5, 0.0
+energy,x,decayTime
+18.8055673146, 176.5, 0.0
+energy,x,decayTime
+7.36794044837, 176.5, 0.0
+energy,x,decayTime
+9.06669546891, 176.5, 0.0
+energy,x,decayTime
+28.3392695716, 176.5, 0.0
+energy,x,decayTime
+15.5457533698, 176.5, 0.0
+energy,x,decayTime
+13.7674402427, 176.5, 0.0
+energy,x,decayTime
+7.53587777604, 176.5, 0.0
+energy,x,decayTime
+28.3928457305, 176.5, 0.0
+energy,x,decayTime
+8.45028184362, 176.5, 0.0
+energy,x,decayTime
+40.0929644907, 176.5, 0.0
+energy,x,decayTime
+36.898518834, 176.5, 0.0
+energy,x,decayTime
+19.8591385747, 176.5, 0.0
+energy,x,decayTime
+17.212569009, 176.5, 0.0
+energy,x,decayTime
+7.2772058315, 176.5, 0.0
+energy,x,decayTime
+16.296182328, 176.5, 0.0
+energy,x,decayTime
+11.8227398676, 176.5, 0.0
+energy,x,decayTime
+47.3097255328, 176.5, 0.0
+energy,x,decayTime
+16.347880628, 176.5, 0.0
+energy,x,decayTime
+17.4928357753, 176.5, 0.0
+energy,x,decayTime
+14.4293177325, 176.5, 0.0
+energy,x,decayTime
+20.6961876029, 176.5, 0.0
+energy,x,decayTime
+15.9596073749, 176.5, 0.0
+energy,x,decayTime
+15.0880145278, 176.5, 0.0
+energy,x,decayTime
+40.3241724853, 176.5, 0.0
+energy,x,decayTime
+25.1767818037, 176.5, 0.0
+energy,x,decayTime
+35.2752869014, 176.5, 0.0
+energy,x,decayTime
+25.6845775463, 176.5, 0.0
+energy,x,decayTime
+9.53991526044, 176.5, 0.0
+energy,x,decayTime
+11.4561396981, 176.5, 0.0
+energy,x,decayTime
+40.4750420574, 176.5, 0.0
+energy,x,decayTime
+16.1972397369, 176.5, 0.0
+energy,x,decayTime
+45.862009809, 176.5, 0.0
+energy,x,decayTime
+21.4432534894, 176.5, 0.0
+energy,x,decayTime
+18.4744803023, 176.5, 0.0
+energy,x,decayTime
+10.6213235487, 176.5, 0.0
+energy,x,decayTime
+13.293403505, 176.5, 0.0
+energy,x,decayTime
+15.1086399189, 176.5, 0.0
+energy,x,decayTime
+17.8334712571, 176.5, 0.0
+energy,x,decayTime
+8.45546602074, 176.5, 0.0
+energy,x,decayTime
+5.64070912865, 176.5, 0.0
+energy,x,decayTime
+19.1509388547, 176.5, 0.0
+energy,x,decayTime
+23.9956091735, 176.5, 0.0
+energy,x,decayTime
+23.1216490232, 176.5, 0.0
+energy,x,decayTime
+10.9560138054, 176.5, 0.0
+energy,x,decayTime
+16.185424288, 176.5, 0.0
+energy,x,decayTime
+22.2643227112, 176.5, 0.0
+energy,x,decayTime
+32.9400483928, 176.5, 0.0
+energy,x,decayTime
+31.2745788662, 176.5, 0.0
+energy,x,decayTime
+15.4029728935, 176.5, 0.0
+energy,x,decayTime
+29.263663066, 176.5, 0.0
+energy,x,decayTime
+20.0464956626, 176.5, 0.0
+energy,x,decayTime
+7.14877191512, 176.5, 0.0
+energy,x,decayTime
+14.3478879249, 176.5, 0.0
+energy,x,decayTime
+12.4808090999, 176.5, 0.0
+energy,x,decayTime
+14.4097224381, 176.5, 0.0
+energy,x,decayTime
+4.10415693156, 176.5, 0.0
+energy,x,decayTime
+24.1629125082, 176.5, 0.0
+energy,x,decayTime
+24.9709067159, 176.5, 0.0
+energy,x,decayTime
+6.82507984054, 176.5, 0.0
+energy,x,decayTime
+12.0700418953, 176.5, 0.0
+energy,x,decayTime
+33.2380013913, 176.5, 0.0
+energy,x,decayTime
+18.6959857005, 176.5, 0.0
+energy,x,decayTime
+37.6215143099, 176.5, 0.0
+energy,x,decayTime
+15.2958653312, 176.5, 0.0
+energy,x,decayTime
+27.3284745323, 176.5, 0.0
+energy,x,decayTime
+12.1835798747, 176.5, 0.0
+energy,x,decayTime
+14.0746151592, 176.5, 0.0
+energy,x,decayTime
+17.5231408332, 176.5, 0.0
+energy,x,decayTime
+25.0269736005, 176.5, 0.0
+energy,x,decayTime
+8.9770015887, 176.5, 0.0
+energy,x,decayTime
+18.6346118506, 176.5, 0.0
+energy,x,decayTime
+18.3285722864, 176.5, 0.0
+energy,x,decayTime
+9.92307302055, 176.5, 0.0
+energy,x,decayTime
+6.22981062952, 176.5, 0.0
+energy,x,decayTime
+19.3959695712, 176.5, 0.0
+energy,x,decayTime
+11.190157591, 176.5, 0.0
+energy,x,decayTime
+8.88675762817, 176.5, 0.0
+energy,x,decayTime
+8.21992717161, 176.5, 0.0
+energy,x,decayTime
+8.24372218828, 176.5, 0.0
+energy,x,decayTime
+23.1440762204, 176.5, 0.0
+energy,x,decayTime
+14.2011818085, 176.5, 0.0
+energy,x,decayTime
+35.915395027, 176.5, 0.0
+energy,x,decayTime
+25.4434968294, 176.5, 0.0
+energy,x,decayTime
+13.6790846542, 176.5, 0.0
+energy,x,decayTime
+15.9825703935, 176.5, 0.0
+energy,x,decayTime
+16.6179766395, 176.5, 0.0
+energy,x,decayTime
+24.965561127, 176.5, 0.0
+energy,x,decayTime
+25.3830359456, 176.5, 0.0
+energy,x,decayTime
+28.0669235349, 176.5, 0.0
+energy,x,decayTime
+3.27005059437, 176.5, 0.0
+energy,x,decayTime
+10.648264334, 176.5, 0.0
+energy,x,decayTime
+11.2814983177, 176.5, 0.0
+energy,x,decayTime
+19.2139286732, 176.5, 0.0
+energy,x,decayTime
+17.9731156739, 176.5, 0.0
+energy,x,decayTime
+7.42824195415, 176.5, 0.0
+energy,x,decayTime
+22.3444466022, 176.5, 0.0
+energy,x,decayTime
+27.8866208395, 176.5, 0.0
+energy,x,decayTime
+14.5336377509, 176.5, 0.0
+energy,x,decayTime
+12.1321106808, 176.5, 0.0
+energy,x,decayTime
+12.994040609, 176.5, 0.0
+energy,x,decayTime
+11.3810488439, 176.5, 0.0
+energy,x,decayTime
+16.4358740059, 176.5, 0.0
+energy,x,decayTime
+40.7938809715, 176.5, 0.0
+energy,x,decayTime
+16.887606095, 176.5, 0.0
+energy,x,decayTime
+16.7802708768, 176.5, 0.0
+energy,x,decayTime
+18.3718285912, 176.5, 0.0
+energy,x,decayTime
+12.1939977122, 176.5, 0.0
+energy,x,decayTime
+30.6452016831, 176.5, 0.0
+energy,x,decayTime
+22.2931640022, 176.5, 0.0
+energy,x,decayTime
+34.5605763211, 176.5, 0.0
+energy,x,decayTime
+11.1820224023, 176.5, 0.0
+energy,x,decayTime
+29.2665266038, 176.5, 0.0
+energy,x,decayTime
+16.8372322308, 176.5, 0.0
+energy,x,decayTime
+29.7302329952, 176.5, 0.0
+energy,x,decayTime
+21.5291767432, 176.5, 0.0
+energy,x,decayTime
+22.1870558737, 176.5, 0.0
+energy,x,decayTime
+16.6796835597, 176.5, 0.0
+energy,x,decayTime
+8.17197616713, 176.5, 0.0
+energy,x,decayTime
+11.6151034838, 176.5, 0.0
+energy,x,decayTime
+9.40283122639, 176.5, 0.0
+energy,x,decayTime
+12.6765996943, 176.5, 0.0
+energy,x,decayTime
+15.9814593713, 176.5, 0.0
+energy,x,decayTime
+46.3397420326, 176.5, 0.0
+energy,x,decayTime
+25.3508417225, 176.5, 0.0
+energy,x,decayTime
+17.7252318562, 176.5, 0.0
+energy,x,decayTime
+6.58252904943, 176.5, 0.0
+energy,x,decayTime
+15.7889617554, 176.5, 0.0
+energy,x,decayTime
+15.6733917034, 176.5, 0.0
+energy,x,decayTime
+20.417053742, 176.5, 0.0
+energy,x,decayTime
+11.1431047345, 176.5, 0.0
+energy,x,decayTime
+37.3903557658, 176.5, 0.0
+energy,x,decayTime
+31.82541497, 176.5, 0.0
+energy,x,decayTime
+21.0039728158, 176.5, 0.0
+energy,x,decayTime
+33.9482970311, 176.5, 0.0
+energy,x,decayTime
+21.9900771356, 176.5, 0.0
+energy,x,decayTime
+9.71359592925, 176.5, 0.0
+energy,x,decayTime
+38.0038666449, 176.5, 0.0
+energy,x,decayTime
+22.7757835371, 176.5, 0.0
+energy,x,decayTime
+28.7614661688, 176.5, 0.0
+energy,x,decayTime
+24.3138739016, 176.5, 0.0
+energy,x,decayTime
+29.5227737981, 176.5, 0.0
+energy,x,decayTime
+12.4090338915, 176.5, 0.0
+energy,x,decayTime
+19.5614319536, 176.5, 0.0
+energy,x,decayTime
+29.6497554859, 176.5, 0.0
+energy,x,decayTime
+7.85330586199, 176.5, 0.0
+energy,x,decayTime
+34.5653882505, 176.5, 0.0
+energy,x,decayTime
+12.3615369679, 176.5, 0.0
+energy,x,decayTime
+12.7908182943, 176.5, 0.0
+energy,x,decayTime
+5.73877395517, 176.5, 0.0
+energy,x,decayTime
+4.32605551445, 176.5, 0.0
+energy,x,decayTime
+19.8734356591, 176.5, 0.0
+energy,x,decayTime
+12.3277345131, 176.5, 0.0
+energy,x,decayTime
+27.1259912204, 176.5, 0.0
+energy,x,decayTime
+14.465263584, 176.5, 0.0
+energy,x,decayTime
+13.7886826145, 176.5, 0.0
+energy,x,decayTime
+27.0307558514, 176.5, 0.0
+energy,x,decayTime
+13.4271023022, 176.5, 0.0
+energy,x,decayTime
+25.2763252179, 176.5, 0.0
+energy,x,decayTime
+30.3129136403, 176.5, 0.0
+energy,x,decayTime
+36.776686884, 176.5, 0.0
+energy,x,decayTime
+20.1232338792, 176.5, 0.0
+energy,x,decayTime
+17.2364464855, 176.5, 0.0
+energy,x,decayTime
+20.7427457546, 176.5, 0.0
+energy,x,decayTime
+6.83676419668, 176.5, 0.0
+energy,x,decayTime
+14.4645627414, 176.5, 0.0
+energy,x,decayTime
+18.6767713676, 176.5, 0.0
+energy,x,decayTime
+33.7228238021, 176.5, 0.0
+energy,x,decayTime
+12.4875484879, 176.5, 0.0
+energy,x,decayTime
+23.223271116, 176.5, 0.0
+energy,x,decayTime
+27.6981262175, 176.5, 0.0
+energy,x,decayTime
+9.49230032574, 176.5, 0.0
+energy,x,decayTime
+10.6705351468, 176.5, 0.0
+energy,x,decayTime
+13.4408723697, 176.5, 0.0
+energy,x,decayTime
+9.71833194503, 176.5, 0.0
+energy,x,decayTime
+16.9141767402, 176.5, 0.0
+energy,x,decayTime
+30.4211124871, 176.5, 0.0
+energy,x,decayTime
+23.2568932325, 176.5, 0.0
+energy,x,decayTime
+14.5018815232, 176.5, 0.0
+energy,x,decayTime
+23.0670376294, 176.5, 0.0
+energy,x,decayTime
+18.0481033479, 176.5, 0.0
+energy,x,decayTime
+36.8291701778, 176.5, 0.0
+energy,x,decayTime
+15.2935978295, 176.5, 0.0
+energy,x,decayTime
+3.14662697986, 176.5, 0.0
+energy,x,decayTime
+14.9475059, 176.5, 0.0
+energy,x,decayTime
+12.7705941339, 176.5, 0.0
+energy,x,decayTime
+15.506587222, 176.5, 0.0
+energy,x,decayTime
+26.4464097341, 176.5, 0.0
+energy,x,decayTime
+5.78758134138, 176.5, 0.0
+energy,x,decayTime
+15.6036615196, 176.5, 0.0
+energy,x,decayTime
+19.7042209146, 176.5, 0.0
+energy,x,decayTime
+12.4037967223, 176.5, 0.0
+energy,x,decayTime
+13.8684377085, 176.5, 0.0
+energy,x,decayTime
+22.2461406914, 176.5, 0.0
+energy,x,decayTime
+9.23173048494, 176.5, 0.0
+energy,x,decayTime
+23.1135620812, 176.5, 0.0
+energy,x,decayTime
+30.066113254, 176.5, 0.0
+energy,x,decayTime
+42.8017025617, 176.5, 0.0
+energy,x,decayTime
+19.5011536328, 176.5, 0.0
+energy,x,decayTime
+13.3539469168, 176.5, 0.0
+energy,x,decayTime
+34.5397535594, 176.5, 0.0
+energy,x,decayTime
+15.0454001306, 176.5, 0.0
+energy,x,decayTime
+18.5414860902, 176.5, 0.0
+energy,x,decayTime
+24.5184771914, 176.5, 0.0
+energy,x,decayTime
+14.3638486131, 176.5, 0.0
+energy,x,decayTime
+12.772200443, 176.5, 0.0
+energy,x,decayTime
+11.4260178451, 176.5, 0.0
+energy,x,decayTime
+5.84404236541, 176.5, 0.0
+energy,x,decayTime
+16.9695542551, 176.5, 0.0
+energy,x,decayTime
+19.3324494421, 176.5, 0.0
+energy,x,decayTime
+13.5359933266, 176.5, 0.0
+energy,x,decayTime
+15.061811842, 176.5, 0.0
+energy,x,decayTime
+18.8245424534, 176.5, 0.0
+energy,x,decayTime
+13.4488454391, 176.5, 0.0
+energy,x,decayTime
+24.2529428185, 176.5, 0.0
+energy,x,decayTime
+40.0974723101, 176.5, 0.0
+energy,x,decayTime
+31.4566390586, 176.5, 0.0
+energy,x,decayTime
+17.5835593814, 176.5, 0.0
+energy,x,decayTime
+6.58590806488, 176.5, 0.0
+energy,x,decayTime
+33.1404139969, 176.5, 0.0
+energy,x,decayTime
+43.3625074989, 176.5, 0.0
+energy,x,decayTime
+25.5306488006, 176.5, 0.0
+energy,x,decayTime
+12.943884268, 176.5, 0.0
+energy,x,decayTime
+24.1638871866, 176.5, 0.0
+energy,x,decayTime
+19.4573583359, 176.5, 0.0
+energy,x,decayTime
+22.7440749004, 176.5, 0.0
+energy,x,decayTime
+17.2914452868, 176.5, 0.0
+energy,x,decayTime
+19.2397116158, 176.5, 0.0
+energy,x,decayTime
+11.7497066312, 176.5, 0.0
+energy,x,decayTime
+44.0125481288, 176.5, 0.0
+energy,x,decayTime
+8.43480702921, 176.5, 0.0
+energy,x,decayTime
+6.61881573031, 176.5, 0.0
+energy,x,decayTime
+13.7197605949, 176.5, 0.0
+energy,x,decayTime
+19.9761174757, 176.5, 0.0
+energy,x,decayTime
+4.76798145424, 176.5, 0.0
+energy,x,decayTime
+21.1399577737, 176.5, 0.0
+energy,x,decayTime
+12.8358375561, 176.5, 0.0
+energy,x,decayTime
+10.2266311977, 176.5, 0.0
+energy,x,decayTime
+36.0825927734, 176.5, 0.0
+energy,x,decayTime
+14.2509063415, 176.5, 0.0
+energy,x,decayTime
+19.7576635273, 176.5, 0.0
+energy,x,decayTime
+15.5870869151, 176.5, 0.0
+energy,x,decayTime
+28.9345925737, 176.5, 0.0
+energy,x,decayTime
+18.044908353, 176.5, 0.0
+energy,x,decayTime
+42.746133214, 176.5, 0.0
+energy,x,decayTime
+14.5233318533, 176.5, 0.0
+energy,x,decayTime
+17.5608149659, 176.5, 0.0
+energy,x,decayTime
+36.3248028477, 176.5, 0.0
+energy,x,decayTime
+25.156908111, 176.5, 0.0
+energy,x,decayTime
+31.8437784498, 176.5, 0.0
+energy,x,decayTime
+19.2121213819, 176.5, 0.0
+energy,x,decayTime
+14.9617240665, 176.5, 0.0
+energy,x,decayTime
+18.6494675077, 176.5, 0.0
+energy,x,decayTime
+15.7021239426, 176.5, 0.0
+energy,x,decayTime
+3.07914419034, 176.5, 0.0
+energy,x,decayTime
+45.9801874751, 176.5, 0.0
+energy,x,decayTime
+31.4072378755, 176.5, 0.0
+energy,x,decayTime
+8.79256918058, 176.5, 0.0
+energy,x,decayTime
+31.63614744, 176.5, 0.0
+energy,x,decayTime
+24.4855350551, 176.5, 0.0
+energy,x,decayTime
+18.9689863536, 176.5, 0.0
+energy,x,decayTime
+12.3968942527, 176.5, 0.0
+energy,x,decayTime
+15.8521996116, 176.5, 0.0
+energy,x,decayTime
+11.1731054696, 176.5, 0.0
+energy,x,decayTime
+13.6764198865, 176.5, 0.0
+energy,x,decayTime
+18.2822286819, 176.5, 0.0
+energy,x,decayTime
+23.8728592783, 176.5, 0.0
+energy,x,decayTime
+13.4445568453, 176.5, 0.0
+energy,x,decayTime
+26.5400055512, 176.5, 0.0
+energy,x,decayTime
+6.11925988508, 176.5, 0.0
+energy,x,decayTime
+15.8654057428, 176.5, 0.0
+energy,x,decayTime
+31.6881933979, 176.5, 0.0
+energy,x,decayTime
+28.1097883503, 176.5, 0.0
+energy,x,decayTime
+28.8507193638, 176.5, 0.0
+energy,x,decayTime
+24.1668108847, 176.5, 0.0
+energy,x,decayTime
+14.9456462839, 176.5, 0.0
+energy,x,decayTime
+29.0434165328, 176.5, 0.0
+energy,x,decayTime
+7.63374392418, 176.5, 0.0
+energy,x,decayTime
+18.9212595423, 176.5, 0.0
+energy,x,decayTime
+12.9349836324, 176.5, 0.0
+energy,x,decayTime
+25.9645962215, 176.5, 0.0
+energy,x,decayTime
+24.58938345, 176.5, 0.0
+energy,x,decayTime
+39.0683413261, 176.5, 0.0
+energy,x,decayTime
+14.7479703307, 176.5, 0.0
+energy,x,decayTime
+20.8117541972, 176.5, 0.0
+energy,x,decayTime
+9.93184391897, 176.5, 0.0
+energy,x,decayTime
+17.3379509162, 176.5, 0.0
+energy,x,decayTime
+19.4023924017, 176.5, 0.0
+energy,x,decayTime
+18.6395626138, 176.5, 0.0
+energy,x,decayTime
+46.5554526847, 176.5, 0.0
+energy,x,decayTime
+13.6807353375, 176.5, 0.0
+energy,x,decayTime
+18.3993090247, 176.5, 0.0
+energy,x,decayTime
+8.80657841056, 176.5, 0.0
+energy,x,decayTime
+18.5368312655, 176.5, 0.0
+energy,x,decayTime
+38.2663692242, 176.5, 0.0
+energy,x,decayTime
+15.794485586, 176.5, 0.0
+energy,x,decayTime
+18.850809784, 176.5, 0.0
+energy,x,decayTime
+12.0697137595, 176.5, 0.0
+energy,x,decayTime
+16.652446167, 176.5, 0.0
+energy,x,decayTime
+15.0726571573, 176.5, 0.0
+energy,x,decayTime
+18.1946723918, 176.5, 0.0
+energy,x,decayTime
+20.0288196064, 176.5, 0.0
+energy,x,decayTime
+39.585652203, 176.5, 0.0
+energy,x,decayTime
+24.232037912, 176.5, 0.0
+energy,x,decayTime
+9.29753698349, 176.5, 0.0
+energy,x,decayTime
+11.8298305406, 176.5, 0.0
+energy,x,decayTime
+9.20238879591, 176.5, 0.0
+energy,x,decayTime
+27.4353077588, 176.5, 0.0
+energy,x,decayTime
+10.8969224688, 176.5, 0.0
+energy,x,decayTime
+29.1588537776, 176.5, 0.0
+energy,x,decayTime
+23.9397174777, 176.5, 0.0
+energy,x,decayTime
+25.3998644205, 176.5, 0.0
+energy,x,decayTime
+9.4264375043, 176.5, 0.0
+energy,x,decayTime
+10.9358209022, 176.5, 0.0
+energy,x,decayTime
+7.76744739586, 176.5, 0.0
+energy,x,decayTime
+12.5453394129, 176.5, 0.0
+energy,x,decayTime
+13.7981095855, 176.5, 0.0
+energy,x,decayTime
+37.5087428737, 176.5, 0.0
+energy,x,decayTime
+19.4157025055, 176.5, 0.0
+energy,x,decayTime
+17.6635058395, 176.5, 0.0
+energy,x,decayTime
+16.4778713555, 176.5, 0.0
+energy,x,decayTime
+11.3132151069, 176.5, 0.0
+energy,x,decayTime
+19.9572782703, 176.5, 0.0
+energy,x,decayTime
+32.3435031407, 176.5, 0.0
+energy,x,decayTime
+38.7058129455, 176.5, 0.0
+energy,x,decayTime
+10.1254593859, 176.5, 0.0
+energy,x,decayTime
+12.2338275196, 176.5, 0.0
+energy,x,decayTime
+5.58531558179, 176.5, 0.0
+energy,x,decayTime
+16.8711447155, 176.5, 0.0
+energy,x,decayTime
+7.29761958575, 176.5, 0.0
+energy,x,decayTime
+13.9355646845, 176.5, 0.0
+energy,x,decayTime
+18.6424937879, 176.5, 0.0
+energy,x,decayTime
+21.0654186809, 176.5, 0.0
+energy,x,decayTime
+12.4652459323, 176.5, 0.0
+energy,x,decayTime
+6.67462331468, 176.5, 0.0
+energy,x,decayTime
+21.0866701607, 176.5, 0.0
+energy,x,decayTime
+12.1595677084, 176.5, 0.0
+energy,x,decayTime
+35.2563149601, 176.5, 0.0
+energy,x,decayTime
+21.4354735628, 176.5, 0.0
+energy,x,decayTime
+13.0345377971, 176.5, 0.0
+energy,x,decayTime
+18.3035803657, 176.5, 0.0
+energy,x,decayTime
+17.9451395054, 176.5, 0.0
+energy,x,decayTime
+19.7704018223, 176.5, 0.0
+energy,x,decayTime
+20.5892685198, 176.5, 0.0
+energy,x,decayTime
+15.8641940905, 176.5, 0.0
+energy,x,decayTime
+5.49184281437, 176.5, 0.0
+energy,x,decayTime
+5.99340600407, 176.5, 0.0
+energy,x,decayTime
+29.9668273438, 176.5, 0.0
+energy,x,decayTime
+20.6001629422, 176.5, 0.0
+energy,x,decayTime
+9.25234251295, 176.5, 0.0
+energy,x,decayTime
+26.0341946929, 176.5, 0.0
+energy,x,decayTime
+14.050851039, 176.5, 0.0
+energy,x,decayTime
+19.2787908246, 176.5, 0.0
+energy,x,decayTime
+11.4908235881, 176.5, 0.0
+energy,x,decayTime
+18.0411995637, 176.5, 0.0
+energy,x,decayTime
+22.5201707031, 176.5, 0.0
+energy,x,decayTime
+22.3463026647, 176.5, 0.0
+energy,x,decayTime
+24.3921406491, 176.5, 0.0
+energy,x,decayTime
+9.67729798268, 176.5, 0.0
+energy,x,decayTime
+16.175688369, 176.5, 0.0
+energy,x,decayTime
+18.0106561453, 176.5, 0.0
+energy,x,decayTime
+19.0234152267, 176.5, 0.0
+energy,x,decayTime
+26.4164175359, 176.5, 0.0
+energy,x,decayTime
+8.72993185478, 176.5, 0.0
+energy,x,decayTime
+16.4327185163, 176.5, 0.0
+energy,x,decayTime
+18.5908480632, 176.5, 0.0
+energy,x,decayTime
+10.9713447072, 176.5, 0.0
+energy,x,decayTime
+8.23769907157, 176.5, 0.0
+energy,x,decayTime
+24.6747763864, 176.5, 0.0
+energy,x,decayTime
+33.3543307533, 176.5, 0.0
+energy,x,decayTime
+14.1943411367, 176.5, 0.0
+energy,x,decayTime
+32.4141344677, 176.5, 0.0
+energy,x,decayTime
+27.7833744692, 176.5, 0.0
+energy,x,decayTime
+36.0779832855, 176.5, 0.0
+energy,x,decayTime
+12.1208846727, 176.5, 0.0
+energy,x,decayTime
+30.1504164489, 176.5, 0.0
+energy,x,decayTime
+23.2581334291, 176.5, 0.0
+energy,x,decayTime
+25.2607858671, 176.5, 0.0
+energy,x,decayTime
+19.8582169378, 176.5, 0.0
+energy,x,decayTime
+24.9068605309, 176.5, 0.0
+energy,x,decayTime
+15.0002618182, 176.5, 0.0
+energy,x,decayTime
+11.2626099335, 176.5, 0.0
+energy,x,decayTime
+12.6536077711, 176.5, 0.0
+energy,x,decayTime
+18.1747116915, 176.5, 0.0
+energy,x,decayTime
+5.06438608811, 176.5, 0.0
+energy,x,decayTime
+4.43495804863, 176.5, 0.0
+energy,x,decayTime
+14.0577825041, 176.5, 0.0
+energy,x,decayTime
+34.5740085189, 176.5, 0.0
+energy,x,decayTime
+15.326353077, 176.5, 0.0
+energy,x,decayTime
+14.4331843238, 176.5, 0.0
+energy,x,decayTime
+15.8119785532, 176.5, 0.0
+energy,x,decayTime
+11.3881847458, 176.5, 0.0
+energy,x,decayTime
+33.0895830237, 176.5, 0.0
+energy,x,decayTime
+9.52406007818, 176.5, 0.0
